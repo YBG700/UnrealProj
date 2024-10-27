@@ -1,0 +1,13 @@
+# Unreal Engine Ignore List
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore Visual Studio files
+*.VC.db
+*.sln
+*.suo
+
+# Ignore Mac-specific files
+.DS_Store
